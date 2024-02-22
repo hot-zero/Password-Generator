@@ -1,9 +1,9 @@
 # Password-Generator
 Password Generator by HTML/CSS/JavaScript
 
-I'll demonstrate how to create a Password Generator using JavaScript. This password generator includes various options for customizing the creation of passwords!
+Create a Password Generator using JavaScript. This password generator includes various options for customizing the creation of passwords!
 
-
+YouTube: 
 
 
 
